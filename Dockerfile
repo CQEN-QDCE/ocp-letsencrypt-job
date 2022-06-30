@@ -1,4 +1,4 @@
-FROM registry.redhat.io/openshift4/ose-cli:v4.10.0-202206211856.p0.g45460a5.assembly.stream
+FROM registry.redhat.io/openshift4/ose-cli:v4.10
 
 # Home directories required by acme.sh script.
 ENV ACME_VERSION=2.9.0
