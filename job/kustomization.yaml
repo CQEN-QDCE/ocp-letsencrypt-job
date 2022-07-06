@@ -8,4 +8,3 @@ resources:
 - cloud-dns-credentials.yaml
 - job-serviceaccount.yaml
 - rbac.yaml
-- job.yaml
